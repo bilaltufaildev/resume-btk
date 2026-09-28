@@ -7,7 +7,7 @@ export const heroContent: HeroContent = {
   name: identityContent.name,
   statement: "I build fast, scalable web applications with React, Next.js, and TypeScript.",
   supportingLine: "5+ years across fintech, e-commerce, AI products, and content platforms.",
-  location: "Pakistan",
+  location: "Islamabad, Pakistan",
   languages: ["English", "Urdu"],
   socialLinks: socialLinksContent,
 };
